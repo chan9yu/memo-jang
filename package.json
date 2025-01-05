@@ -1,14 +1,14 @@
 {
-	"name": "memo-jang",
+	"name": "zod-signup-practice",
 	"private": true,
 	"version": "1.0.0",
-	"description": "",
+	"description": "📋 Practice user signup form validation with Zod and React Hook Form.",
 	"type": "module",
 	"packageManager": "yarn@1.22.22",
 	"author": "chan9yu <dev.cgyeo@gmail.com>",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/chan9yu/memo-jang"
+		"url": "https://github.com/chan9yu/zod-signup-practice"
 	},
 	"scripts": {
 		"dev": "vite",
@@ -18,7 +18,8 @@
 	},
 	"dependencies": {
 		"react": "^18.3.1",
-		"react-dom": "^18.3.1"
+		"react-dom": "^18.3.1",
+		"zod": "^3.24.1"
 	},
 	"devDependencies": {
 		"@types/node": "^22.10.5",
